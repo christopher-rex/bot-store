@@ -1,9 +1,7 @@
 {
-  "version": "1.0",
-  "response": {
-    "outputSpeech": {
-      "type": "PlainText",
-      "text": "Hi there, a hearty welcome to you, my friends. It is our pleasure having you here. Hope you enjoy your time with us"
-    }
-  }
-}
+   "uid": "urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6b",
+   "updateDate": "2016-05-23T00:00:00.0Z",
+   "titleText": "Greetings",
+   "mainText": "It is a pleasure having you all here with us. Hope you enjoy your time with us.",
+   "redirectionUrl": "https://developer.amazon.com/public/community/blog"
+ }
